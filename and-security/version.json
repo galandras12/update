@@ -1,0 +1,11 @@
+{
+	"plugin": "and-security",
+	"name": "And Security",
+	"version": "1.8.5",
+	"released": "2026-11-23",
+	"min_php": "8.1",
+	"min_wp": "6.5",
+	"severity": "normal",
+	"info_url": "https://github.com/galandras12/And-security",
+	"summary": "Verzió-ellenőrző: a bővítmény jelzi, ha új kiadás érhető el, és a fejlécben a verziószámra kattintva olvashatod az újdonságokat."
+}
