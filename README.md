@@ -1,2 +1,2 @@
 # update
-Version info
+Some app version info.
