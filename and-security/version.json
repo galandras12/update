@@ -1,11 +1,11 @@
 {
 	"plugin": "and-security",
 	"name": "And Security",
-	"version": "1.9.1",
+	"version": "1.9.2",
 	"released": "2026-11-23",
 	"min_php": "8.1",
 	"min_wp": "6.5",
 	"severity": "normal",
 	"info_url": "https://github.com/galandras12/And-security",
-	"summary": "Új Névjegy oldal (frissítési napló, biztonsági javítások, licencek), szimmetrikus hópelyhek és működő, ki-be kapcsolható szezonális teszt."
+	"summary": "Szezonális megjelenés csiszolása: látványos évszám és csillagszóró, szélesebb zászló, szebb mécses, ajándékdobozos karácsonyfa."
 }
