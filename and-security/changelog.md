@@ -1,5 +1,11 @@
 # And Security - változásnapló
 
+## 1.9.1 - 2026-11-23
+Névjegy oldal, szimmetrikus hópelyhek, működő szezonális teszt.
+- **Új Névjegy** (Beállítások › Névjegy): a teljes frissítési napló érthetően, főverziók szerint; a fontos biztonsági javítások listája; licencek és források; a készítő GitHub profilja és a Claude Code AI programozó segéd feltüntetése.
+- **Szimmetrikus hó:** a pixel alakú hópelyhek mostantól csak minden oldalán szimmetrikus alakúak.
+- **Működő teszt:** a szezonális megjelenés tesztje ki- és bekapcsolható, és a kiválasztott ünnepet az And Security fejlécében és a webhelyen is megmutatja (csak neked, legfeljebb 2 óráig).
+
 ## 1.9.0 - 2026-11-23
 Megújult Hitelesítő+ felület, vezérlőpult-statisztika és szezonális megjelenés.
 - **Hitelesítő+ modern felülettel:** a belépési kihívás és a beállító oldal az And Security stílusában, színes ikonokkal, világos és sötét módban; a működés és az adatok változatlanok.
