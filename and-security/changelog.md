@@ -1,5 +1,12 @@
 # And Security - változásnapló
 
+## 1.9.0 - 2026-11-23
+Megújult Hitelesítő+ felület, vezérlőpult-statisztika és szezonális megjelenés.
+- **Hitelesítő+ modern felülettel:** a belépési kihívás és a beállító oldal az And Security stílusában, színes ikonokkal, világos és sötét módban; a működés és az adatok változatlanok.
+- **Statisztika a WordPress vezérlőpulton:** blokkolt kérések, támadó IP-k és országok, leggyakoribb támadástípusok, 7 napos diagram, kétfaktoros lefedettség és biztonsági pontszám egy dobozban (kapcsolható).
+- **Szezonális megjelenés** (alapból kikapcsolva): decemberi hóesés az admin felületen és - kérésre - a látogatói oldalon; ünnepi díszek a logó körül (advent, Mikulás, karácsonyfa, szilveszter, újév, húsvét, magyar ünnepek, mécses); főoldal / minden oldal hatókör.
+- **Előnézet:** a Beállítások › Általános oldalon legördülő listából megnézhető bármelyik ünnep kinézete.
+
 ## 1.8.6 - 2026-11-23
 Javítás: a változásnapló szövegének pontosítása.
 - **Pontosabb leírás:** az 1.8.5-ös bejegyzés mostantól a helyes forráscímet nevezi meg (`galandras12/update` › `main` › `and-security/`).
