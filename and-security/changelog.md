@@ -1,8 +1,12 @@
 # And Security - változásnapló
 
+## 1.8.6 - 2026-11-23
+Javítás: a változásnapló szövegének pontosítása.
+- **Pontosabb leírás:** az 1.8.5-ös bejegyzés mostantól a helyes forráscímet nevezi meg (`galandras12/update` › `main` › `and-security/`).
+
 ## 1.8.5 - 2026-11-23
 Az update tároló több bővítményt is kiszolgálhat: az And Security adatai külön almappában és kifejezett azonosítóval érkeznek.
-- **Saját almappa:** az adatok címe `update/main/and-security/` lett.
+- **Saját almappa:** az And Security adatai a `galandras12/update` tároló `main` ágán, az `and-security/` almappában találhatók.
 - **Bővítmény-azonosító:** a `version.json` `"plugin": "and-security"` mezője kötelező; más bővítmény fájlját a verzió-ellenőrző elutasítja.
 
 ## 1.8.4 - 2026-11-23
