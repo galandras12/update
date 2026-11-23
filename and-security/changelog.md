@@ -1,5 +1,12 @@
 # And Security - változásnapló
 
+## 1.9.2 - 2026-11-23
+Szezonális megjelenés: gyorsjavítás és csiszolás.
+- **Látványos évszám:** szilveszterkor és újévkor csak az évszám jelenik meg, arany, fémes számjegyekkel és csillogással; január 1-jén látványosabb csillagszóró.
+- **Szélesebb zászló** augusztus 20-án és október 23-án; a lyukas zászló közepe kivágott.
+- **Szebb mécses** október 31-én és november 1-jén: a hagyományos temetői mécses formája, benne lobogó lánggal.
+- **Ajándékdobozok** december 25-től a karácsonyfa alatt (a koszorú eltűnik); december 27-én az ajándékok is eltűnnek.
+
 ## 1.9.1 - 2026-11-23
 Névjegy oldal, szimmetrikus hópelyhek, működő szezonális teszt.
 - **Új Névjegy** (Beállítások › Névjegy): a teljes frissítési napló érthetően, főverziók szerint; a fontos biztonsági javítások listája; licencek és források; a készítő GitHub profilja és a Claude Code AI programozó segéd feltüntetése.
