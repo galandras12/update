@@ -1,5 +1,11 @@
 # And Security - változásnapló
 
+## 1.10.0 - 2026-11-24
+Új Jelentés menüpont, grafikonokkal.
+- **Jelentés:** blokkolt kérés, naplózott esemény, egyedi támadó IP, aktív és inaktív tiltás, sikertelen próbálkozás, robot-, csapdamező-, captcha- és zárolt IP találat, sikeres belépés, tűzfal aktivitás és anomális pontszámú kérések - az utolsó 24 órára, 7, 30, 365 napra és összesítve.
+- **Grafikonok és részletek:** idősor, megoszlások, napszak, leggyakoribb támadó címek, országok, szabályok, útvonalak, böngészők és a legutóbbi blokkolt támadások; napi adatok CSV-ben.
+- **Takarékos:** a hosszú távú összesítés naponta egy apró sor (kb. 0,1 MB/év); optimalizált adatbázis módban nem foglal extra helyet, és kikapcsolható.
+
 ## 1.9.2 - 2026-11-23
 Szezonális megjelenés: gyorsjavítás és csiszolás.
 - **Látványos évszám:** szilveszterkor és újévkor csak az évszám jelenik meg, arany, fémes számjegyekkel és csillogással; január 1-jén látványosabb csillagszóró.
