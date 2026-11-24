@@ -1,11 +1,11 @@
 {
 	"plugin": "and-security",
 	"name": "And Security",
-	"version": "1.9.2",
-	"released": "2026-11-23",
+	"version": "1.10.0",
+	"released": "2026-11-24",
 	"min_php": "8.1",
 	"min_wp": "6.5",
 	"severity": "normal",
 	"info_url": "https://github.com/galandras12/And-security",
-	"summary": "Szezonális megjelenés csiszolása: látványos évszám és csillagszóró, szélesebb zászló, szebb mécses, ajándékdobozos karácsonyfa."
+	"summary": "Új Jelentés menüpont: minden fontos biztonsági mutató 24 órára, 7, 30, 365 napra és összesítve, grafikonokkal és részletes lebontással - takarékos adatbázis-használattal."
 }
