@@ -1,11 +1,11 @@
 {
 	"plugin": "and-security-light",
 	"name": "And Security Light",
-	"version": "2.0.0",
+	"version": "2.1.1",
 	"released": "2026-11-25",
 	"min_php": "7.4",
 	"min_wp": "5.8",
-	"severity": "security",
+	"severity": "normal",
 	"info_url": "https://github.com/galandras12/And-security",
-	"summary": "Nagy biztonsági frissítés: erősebb tűzfal (SSRF, XXE, Log4Shell, CSRF), kétfaktoros hitelesítés, CAPTCHA, fájl-integritás és karantén, HSTS / CSP, riasztások, világos / sötét téma."
+	"summary": "Sötét mód hover-javítás, több riasztási e-mail-cím (és minden adminisztrátor), a szöveges beállítások mentésének javítása."
 }
